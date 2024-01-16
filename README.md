@@ -1,1 +1,1 @@
-Since github does not allow files with size over 100MB. I've uploaded the saved model file (my_model_best.keras) on Google Drive so you can use it to run the program: https://drive.google.com/drive/folders/1OsRekxV3qbr_pY31wRYeamPbP3iW5YBo?usp=sharing  
+Since github does not allow files with size over 100MB. I've uploaded the saved model file (my_model_best.keras) on Google Drive so you can load that model and run the program without retraining the model: https://drive.google.com/drive/folders/1OsRekxV3qbr_pY31wRYeamPbP3iW5YBo?usp=sharing  
